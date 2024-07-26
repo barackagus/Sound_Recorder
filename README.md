@@ -1,8 +1,6 @@
 # Sound_Recorder
 This is a simple voice recorder application
 
-# README
-
 ## Gambaran Umum
 
 Skrip ini merekam audio dari mikrofon Anda dan menyimpannya sebagai file WAV. Skrip ini menggunakan pustaka `sounddevice` untuk merekam audio, `scipy` untuk menulis file WAV, dan `numpy` untuk menangani data audio.
@@ -66,9 +64,6 @@ Silakan Bicara
 Berhasil merekam dan menyimpan ke hasil rekaman/recording0.wav
 ```
 
-## Lisensi
-
-Proyek ini dilisensikan di bawah Lisensi MIT. Lihat file [LICENSE](LICENSE) untuk detailnya.
 
 ## Kontribusi
 
